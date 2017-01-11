@@ -32,3 +32,43 @@ Kinect and Unity Tutorial
 4. Kinect SDK总共有几种坐标系？Kinect坐标系、彩色图像坐标系、深度图像坐标系，这三个坐标系之间的数据如何转换？SDK提供的骨骼点的三维数据是在什么坐标系下值？
 5. Kinect Studio的使用（重点），如何在没有Kinect V2硬件的情况下调试Kinect程序。
 6. Kinect Visual Gesture Builder的使用
+
+-----------
+
+###了解Unity
+Unity是一个入门容易，精通难的游戏开发引擎，到目前为止我也只懂一点皮毛知识，勉强够用，做开发时遇到问题也是现查现用。网上Unity的教程太多了，五花八门，我也没有特别的推荐。但是我建议大家学习Unity的时候不要一下子走的太深，因为游戏引擎的知识点太多了，一下子学的太深，长时间不用很快就会遗忘，所以在熟悉了基本操作的基础上，对Unity的功能只需大概了解一下即可，知道哪些功能能实现什么效果，当项目有具体的需要时再仔细的学习。
+* [游戏蛮牛论坛](http://www.manew.com/)
+
+    蛮牛论坛算是目前最活跃的unity论坛，里面有大量的Unity教学视频，还有很多免费的Unity插件包。可以自己在论坛里面找到Unity的入门视频。我这里分享一个我自己的[Unity教程百度网盘](http://pan.baidu.com/s/1bpqt5uR)链接，密码a5a2。
+    
+* [Unity官方教程](https://unity3d.com/cn/learn)
+
+    Unity官方教程，教程简单，容易上手，Unity的特性也介绍的很清楚，每个教程还对应有工程文件下载，值得一看。
+    
+* [Unity安装程序百度云盘](http://pan.baidu.com/s/1qYARHYO)
+
+    密码wtpt，目前我正在使用的Unity版本，推荐大家安装64位，链接内包含破解文件。
+    
+####注意问题的
+1. Unity的安装与破解
+2. Unity中3D和2D的碰撞体知识，OnTriggerEnter、OnColliderEnter等函数的使用
+3. 如何在Unity中显示视频、图像
+4. 利用uGUI搭建基本的界面
+5. 如何导入插件包Package
+6. Unity中坐标系的转换
+
+-----------
+
+###了解Kinect在Unity中的使用
+Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编程还需要一个Unity的插件。目前流行很多个版本的插件，但是我觉得最好的，也是我经常用的一个插件是[Kinect V2 Examples with MS-SDK](https://www.assetstore.unity3d.com/en/#!/content/18708)，作者是一个澳大利亚的工程师，专门研究人机交互。插件需要购买20$，我已经购买过了，分享给大家。**后续我会补上百度云盘的链接**
+* [插件作者网站](https://rfilkov.com/2014/08/01/kinect-v2-with-ms-sdk/)
+
+    网站介绍了插件的基本使用方法，以及使用插件过程中常见的一些问题。我建议通过插件内的Demo学习插件的基本使用方法。然后通过实际的项目学习具体的使用方法。
+    
+**TODO-待后续更新**
+* [策划一个实际的游戏，并提供基本的素材，从实现游戏的过程中学习和熟练知识]
+
+    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    
+####注意问题的
+1. XXXXXXXXX
