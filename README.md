@@ -7,6 +7,6 @@ Kinect and Unity Tutorial
 
 ###简介
 本篇教程的内容可以分为三个部分
-    * 了解Kinect
-    * 了解Unity
-    * 了解Kinect在Unity中的使用
+* 了解Kinect
+* 了解Unity
+* 了解Kinect在Unity中的使用
