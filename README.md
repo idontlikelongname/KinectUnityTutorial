@@ -27,7 +27,7 @@ Kinect and Unity Tutorial
     Kinect2发布时的官方视频，详细介绍了各种Kinect的各种特性。需要重点了解的是**[03_A Kinect2.0中文视频Hand PointGesture]** **[03_B Kinect2.0中文视频PHIZ]** **[06_A Kinect2.0中文视频Studio]**。
 
 ####注意问题的
-1. Kinect SDK的安装
+1. Kinect SDK的如何在Windows中安装，Kinect V2对电脑系统的要求，以及推荐性能。
 2. Kinect SDK能提供的基本数据有哪些？彩色图像、深度图像、骨骼关节点的空间坐标等，以及这些数据的基本参数，图像分辨率，彩色图像位数，坐标单位，关节点数量，每个关节点对应身体上的哪个部位
 3. Kinect骨骼关节点坐标的坐标系信息。坐标轴方向，坐标轴原点，坐标数据单位，坐标取值范围
 4. Kinect SDK总共有几种坐标系？Kinect坐标系、彩色图像坐标系、深度图像坐标系，这三个坐标系之间的数据如何转换？SDK提供的骨骼点的三维数据是在什么坐标系下值？
