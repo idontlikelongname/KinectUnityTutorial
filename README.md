@@ -84,3 +84,6 @@ http://answers.unity3d.com/questions/1127916/reloading-native-plugins.html
 https://blogs.msdn.microsoft.com/jonathanswift/2006/10/03/dynamically-calling-an-unmanaged-dll-from-net-c/
 http://runningdimensions.com/blog/?p=5
 http://answers.unity3d.com/questions/293867/easier-way-to-handle-unloading-dlls.html
+
+###Background Remover 
+http://www.technogumbo.com/2013/09/Analysis-of-the-Kinect-For-Windows-SDK-1.8-Background-Removal-API/
