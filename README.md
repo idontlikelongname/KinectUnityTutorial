@@ -73,3 +73,14 @@ Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编�
     
 ####注意问题的
 1. XXXXXXXXX
+
+
+
+##Tips
+-----------------------
+###Unity调用dll时，无法detach解决方法
+http://answers.unity3d.com/questions/10216/unload-a-plugin.html
+http://answers.unity3d.com/questions/1127916/reloading-native-plugins.html
+https://blogs.msdn.microsoft.com/jonathanswift/2006/10/03/dynamically-calling-an-unmanaged-dll-from-net-c/
+http://runningdimensions.com/blog/?p=5
+http://answers.unity3d.com/questions/293867/easier-way-to-handle-unloading-dlls.html
