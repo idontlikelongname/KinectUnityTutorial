@@ -87,3 +87,8 @@ http://answers.unity3d.com/questions/293867/easier-way-to-handle-unloading-dlls.
 
 ###Background Remover 
 http://www.technogumbo.com/2013/09/Analysis-of-the-Kinect-For-Windows-SDK-1.8-Background-Removal-API/
+RawUserDepth means that only the raw depth image values, comming from the sensor will be available, via the GetRawDepthMap for instance
+BodyTexture means that GetUsersLblTex will return the white image of the tracked users
+UserTexture will cause GetUsersLblTex to return the tracked users' histogram image
+CutOutTexture, combined with enabled 'Compute color map', means that GetUsersLblTex will return the cut-out image of the users
+
