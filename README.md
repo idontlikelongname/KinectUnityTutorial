@@ -61,7 +61,7 @@ Unity是一个入门容易，精通难的游戏开发引擎，到目前为止我
 -----------
 
 ###了解Kinect在Unity中的使用
-Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编程还需要一个Unity的插件。目前流行很多个版本的插件，但是我觉得最好的，也是我经常用的一个插件是[Kinect V2 Examples with MS-SDK](https://www.assetstore.unity3d.com/en/#!/content/18708)，作者是一个澳大利亚的工程师，专门研究人机交互。插件需要购买20$，我已经购买过了，分享给大家。**后续我会补上百度云盘的链接**
+Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编程还需要一个Unity的插件。目前流行很多个版本的插件，但是我觉得最好的，也是我经常用的一个插件是[Kinect V2 Examples with MS-SDK](https://www.assetstore.unity3d.com/en/#!/content/18708)，作者是一个澳大利亚的工程师，专门研究人机交互。插件需要购买20$，我已经购买过了，分享给大家，，[密码93eq](http://pan.baidu.com/s/1i52sZdV)。**后续我会补上百度云盘的链接**
 * [插件作者网站](https://rfilkov.com/2014/08/01/kinect-v2-with-ms-sdk/)
 
     网站介绍了插件的基本使用方法，以及使用插件过程中常见的一些问题。我建议通过插件内的Demo学习插件的基本使用方法。然后通过实际的项目学习具体的使用方法。
