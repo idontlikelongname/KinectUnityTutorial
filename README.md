@@ -31,7 +31,7 @@ Kinect and Unity Tutorial
 2. Kinect SDK能提供的基本数据有哪些？彩色图像、深度图像、骨骼关节点的空间坐标等，以及这些数据的基本参数，图像分辨率，彩色图像位数，坐标单位，关节点数量，每个关节点对应身体上的哪个部位
 3. Kinect骨骼关节点坐标的坐标系信息。坐标轴方向，坐标轴原点，坐标数据单位，坐标取值范围
 4. Kinect SDK总共有几种坐标系？Kinect坐标系、彩色图像坐标系、深度图像坐标系，这三个坐标系之间的数据如何转换？SDK提供的骨骼点的三维数据是在什么坐标系下值？
-5. Kinect Studio的使用（重点），如何在没有Kinect V2硬件的情况下调试Kinect程序。
+5. Kinect Studio的使用（重点），如何在没有Kinect V2硬件的情况下调试Kinect程序，[Kinect数据包，密码5aj9](http://pan.baidu.com/s/1cAENhW)。
 6. Kinect Visual Gesture Builder的使用
 
 -----------
@@ -61,7 +61,7 @@ Unity是一个入门容易，精通难的游戏开发引擎，到目前为止我
 -----------
 
 ###了解Kinect在Unity中的使用
-Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编程还需要一个Unity的插件。目前流行很多个版本的插件，但是我觉得最好的，也是我经常用的一个插件是[Kinect V2 Examples with MS-SDK](https://www.assetstore.unity3d.com/en/#!/content/18708)，作者是一个澳大利亚的工程师，专门研究人机交互。插件需要购买20$，我已经购买过了，分享给大家，，[密码93eq](http://pan.baidu.com/s/1i52sZdV)。**后续我会补上百度云盘的链接**
+Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编程还需要一个Unity的插件。目前流行很多个版本的插件，但是我觉得最好的，也是我经常用的一个插件是[Kinect V2 Examples with MS-SDK](https://www.assetstore.unity3d.com/en/#!/content/18708)，作者是一个澳大利亚的工程师，专门研究人机交互。插件需要购买20$，我已经购买过了，分享给大家，，[密码93eq](http://pan.baidu.com/s/1i52sZdV)。
 * [插件作者网站](https://rfilkov.com/2014/08/01/kinect-v2-with-ms-sdk/)
 
     网站介绍了插件的基本使用方法，以及使用插件过程中常见的一些问题。我建议通过插件内的Demo学习插件的基本使用方法。然后通过实际的项目学习具体的使用方法。
