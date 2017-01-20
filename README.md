@@ -93,3 +93,4 @@ BodyTexture means that GetUsersLblTex will return the white image of the tracked
 UserTexture will cause GetUsersLblTex to return the tracked users' histogram image
 CutOutTexture, combined with enabled 'Compute color map', means that GetUsersLblTex will return the cut-out image of the users
 
+
