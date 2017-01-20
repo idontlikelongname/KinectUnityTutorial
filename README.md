@@ -68,7 +68,8 @@ Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编�
     
 **TODO-待后续更新**
 * [策划一个实际的游戏，并提供基本的素材，从实现游戏的过程中学习和熟练知识]
-
+* [Unity完整项目包密码n9qb](http://pan.baidu.com/s/1nuCJYeH)
+    
     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     
 ####注意问题的
