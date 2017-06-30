@@ -77,6 +77,7 @@ Kinect在Windows下一般通过MS Kinect SDK编程，利用Unity进行Kinect编�
 
 
 #### github push test
+### github上的仓库和本地仓库不是同一个仓库衍生出来的，所以一直无法合并，折腾了几天，也没有找到解决办法
 
 
 
